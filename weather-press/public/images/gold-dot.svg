@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="4 5 24 24" style="enable-background:new 4 5 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#3E3F3F;}
+	.st1{fill:none;stroke:#F4D22A;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{filter:url(#Adobe_OpacityMaskFilter);}
+	.st3{opacity:0.5;mask:url(#SVGID_1_);}
+	.st4{fill:#EFDA18;}
+	.st5{fill:none;stroke:#EFDA18;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<circle class="st0" cx="16" cy="16.5" r="10.3"/>
+		<circle class="st1" cx="16" cy="16.5" r="10.3"/>
+	</g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="5.5" y="6" width="21" height="21">
+			<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+			<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="5.5" y="6" width="21" height="21" id="SVGID_1_">
+		<g class="st2">
+			
+				<image style="overflow:visible;" width="26" height="26" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEASABIAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
+EAMCAwYAAAGSAAABwQAAAhb/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
+Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
+JjAjHh4eHiMwKy4nJycuKzU1MDA1NUBAP0BAQEBAQEBAQEBAQP/CABEIABoAGgMBIgACEQEDEQH/
+xAB5AAADAQEAAAAAAAAAAAAAAAAABgcFAwEBAAAAAAAAAAAAAAAAAAAAABAAAQQDAQAAAAAAAAAA
+AAAABQIDBAYAIAEHEQABBAEBCAMAAAAAAAAAAAABESECAwAQIDFBUbESQhPBIjISAQAAAAAAAAAA
+AAAAAAAAACD/2gAMAwEAAhEDEQAAAEx25UEjmHXZEar9LAZlkD//2gAIAQIAAQUA0//aAAgBAwAB
+BQDT/9oACAEBAAEFABQqSUks+cMdZsFZkh155w3H6nLoiOoVgA26IlNX8Wpmz2tRbb//2gAIAQIC
+Bj8AH//aAAgBAwIGPwAf/9oACAEBAQY/ABRQG8pchgNkpGxHdM7nnQfLiNLJMbO4r8aWe5B9S+ns
+iprl+ojrglKYE03FjhppUVK55ja//9k=" transform="matrix(1 0 0 1 3 4)">
+			</image>
+		</g>
+	</mask>
+	<g class="st3">
+		<circle class="st4" cx="16" cy="16.5" r="10.3"/>
+		<circle class="st5" cx="16" cy="16.5" r="10.3"/>
+	</g>
+</g>
+</svg>
